@@ -1,0 +1,5 @@
+min_sigma=1
+max_sigma=5
+threshold=0.1
+blur=False
+blur_strength=9

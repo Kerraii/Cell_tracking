@@ -1,0 +1,15 @@
+.idea
+data/*
+auxil
+
+.venv_windows
+.venv
+.environment
+
+out/*
+!out/main.pdf
+
+src/cell_detection/__pycache__/*
+src/data_parsing/__pycache__/*
+src/optical_flow/horn_schunck/__pycache__/*
+src/optical_flow/lucas_kanade/__pycache__/*

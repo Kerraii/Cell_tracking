@@ -1,0 +1,43 @@
+https://en.wikipedia.org/wiki/Blob_detection#The_determinant_of_the_Hessian
+https://learnopencv.com/blob-detection-using-opencv-python-c/ (goede images)
+https://github.com/scivision/pyoptflow
+
+# interesting article
+https://towardsdatascience.com/medical-image-pre-processing-with-python-d07694852606
+
+# one big paper
+https://kth.diva-portal.org/smash/get/diva2:1232431/FULLTEXT01.pdf
+
+# normalize data
+https://www.section.io/engineering-education/image-preprocessing-in-python/
+
+# Gaussian blur
+https://prince-canuma.medium.com/image-pre-processing-c1aec0be3edf
+
+
+# general methods & detectors:
+https://en.wikipedia.org/wiki/Blob_detection
+https://en.wikipedia.org/wiki/Feature_(computer_vision)#Detectors
+
+# LOG
+https://en.wikipedia.org/wiki/Blob_detection#The_Laplacian_of_Gaussian
+
+# DOG
+https://en.wikipedia.org/wiki/Difference_of_Gaussians
+
+# DOH
+https://en.wikipedia.org/wiki/Blob_detection#The_determinant_of_the_Hessian
+
+# FAST: BAD
+https://en.wikipedia.org/wiki/Features_from_accelerated_segment_test
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_fast/py_fast.html
+https://vovkos.github.io/doxyrest-showcase/opencv/sphinx_rtd_theme/page_tutorial_py_fast.html
+
+# MSER: GOOD, kunnen gebruiken als 'filtering' voordat we andere detectors gebruiken
+https://en.wikipedia.org/wiki/Maximally_stable_extremal_regions
+https://stackoverflow.com/questions/47595684/extract-mser-detected-areas-python-opencv
+
+# LK
+https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html
+https://docs.opencv.org/3.4/dc/d6b/group__video__track.html#ga473e4b886d0bcc6b65831eb88ed93323
+http://robots.stanford.edu/cs223b04/algo_tracking.pdf
